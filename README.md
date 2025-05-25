@@ -40,7 +40,7 @@
 - Microsoft Office
 
 ## Tentang Saya
-Saya adalah seorang mahasiswa D4 Teknik Informatika dengan minat besar di bidang pengembangan perangkat lunak, administrasi jaringan, dan desain UI/UX. Saya memiliki pengalaman dalam mengembangkan berbagai aplikasi berbasis web dan mobile menggunakan berbagai teknologi, serta bersemangat untuk terus mengembangkan keterampilan dan keahlian saya dalam industri ini.
+Saya adalah seorang mahasiswa D4 Teknik Informatika dengan minat besar di bidang pengembangan perangkat lunak. Saya memiliki pengalaman dalam mengembangkan berbagai aplikasi berbasis web dan mobile menggunakan berbagai teknologi, serta bersemangat untuk terus mengembangkan keterampilan dan keahlian saya dalam industri ini.
 
 Jika Anda tertarik untuk berkolaborasi atau membutuhkan bantuan dalam proyek teknologi, jangan ragu untuk menghubungi saya!
 
