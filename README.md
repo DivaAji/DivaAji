@@ -46,4 +46,5 @@ Jika Anda tertarik untuk berkolaborasi atau membutuhkan bantuan dalam proyek tek
 
 ---
 
-> "Motivasi adalah kunci untuk memulai kebiasaan baru."
+> "The fears we don't face become our limits."
+
